@@ -10,4 +10,4 @@ There, I help develop and maintain the extensions that give Miraheze its distinc
 
 [Email](mailto:alex@blueselene.com) ([OpenPGP key](https://blueselene.com/pgp-archive/0AFB427F1800FD89751C4035292228735AE707FF/key.pub)).
 
-For Wikitide-related matters, do not email my @miraheze.org address directly, rather contact [sre@miraheze.org](mailto:sre@miraheze.org).
+For Wikitide-related matters do not email my @miraheze.org address directly, rather contact [sre@miraheze.org](mailto:sre@miraheze.org).
