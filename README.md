@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Alex. I'm a volunteer at [WikiTide](https://github.com/miraheze)'s [Technology](https://meta.miraheze.org/wiki/Tech:Volunteers) team, where I serve as a MediaWiki Specialist.
+I'm Alex, also known as OrangeStar at Miraheze. I'm a volunteer at [WikiTide](https://github.com/miraheze)'s [Technology](https://meta.miraheze.org/wiki/Tech:Volunteers) team, where I serve as a MediaWiki Specialist.
 
 🕐 I live in Spain. Timezones are UTC+1/UTC+2
 
